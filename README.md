@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient%20&text=Hello%20&animation=scaleIn&fontColor=2EAEEE"/>
+</p>
 
 <!--
 **jamiljabbour/jamiljabbour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
